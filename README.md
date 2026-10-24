@@ -12,11 +12,7 @@
 
 <br>
 
-<h3 align="center">把复杂藏起来。</h3>
 
-<p align="center"><sub>只留下刚好的部分。</sub></p>
-
-<br>
 
 <p align="center"><sub>P I N N E D</sub></p>
 
