@@ -4,7 +4,9 @@
 
 <p align="center">
   <a href="https://chipiotto.top/"><img src="https://img.shields.io/badge/WEBSITE-chipiotto.top-FF2D6F?style=flat-square&labelColor=111114" alt="Website"></a>
+  &nbsp;&nbsp;
   <a href="https://github.com/lsaa4"><img src="https://img.shields.io/badge/GITHUB-lsaa4-111114?style=flat-square&labelColor=FF2D6F" alt="GitHub"></a>
+  &nbsp;&nbsp;
   <a href="https://x.com/chipi_minull"><img src="https://img.shields.io/badge/X-@chipi__minull-111114?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 </p>
 
