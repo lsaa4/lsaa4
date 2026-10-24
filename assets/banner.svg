@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="ChiPiotto — 桌面美化 / 局域网工具 / 单片机">
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#F2F2F4" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- 纸白背景 + 淡网格 -->
+  <rect width="1200" height="340" fill="#FFFFFF"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+
+  <!-- 左侧荧光粉竖条 -->
+  <rect x="0" y="0" width="10" height="340" fill="#FF2D6F"/>
+
+  <!-- 顶部标签 -->
+  <rect x="58" y="44" width="10" height="10" fill="#FF2D6F"/>
+  <text x="80" y="55" font-family="Consolas, Menlo, monospace" font-size="14" letter-spacing="3" fill="#8A8A90">01 / PROFILE</text>
+  <text x="1142" y="55" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="14" letter-spacing="2" fill="#8A8A90">CHIPIOTTO.TOP</text>
+
+  <!-- 名字 -->
+  <text x="54" y="192" font-family="Segoe UI, Helvetica Neue, Arial, Microsoft YaHei, sans-serif"
+        font-size="104" font-weight="800" letter-spacing="-3.5" fill="#111114">ChiPiotto</text>
+
+  <!-- 一句话 -->
+  <text x="58" y="246" font-family="Segoe UI, Helvetica Neue, Arial, Microsoft YaHei, sans-serif"
+        font-size="25" font-weight="400" fill="#5F5F63">桌面美化 <tspan fill="#FF2D6F">/</tspan> 局域网工具 <tspan fill="#FF2D6F">/</tspan> 单片机</text>
+
+  <!-- 右侧条形装饰 -->
+  <g>
+    <rect x="1012" y="84" width="6"  height="178" fill="#111114"/>
+    <rect x="1026" y="120" width="4" height="142" fill="#E7E7EC"/>
+    <rect x="1038" y="84" width="8"  height="178" fill="#111114"/>
+    <rect x="1054" y="150" width="5" height="112" fill="#FF2D6F"/>
+    <rect x="1066" y="84" width="6"  height="178" fill="#111114"/>
+    <rect x="1080" y="120" width="10" height="142" fill="#111114"/>
+    <rect x="1098" y="84" width="4"  height="178" fill="#E7E7EC"/>
+    <rect x="1110" y="146" width="6" height="116" fill="#111114"/>
+    <rect x="1124" y="84" width="4"  height="178" fill="#111114"/>
+    <rect x="1136" y="108" width="8" height="154" fill="#E7E7EC"/>
+  </g>
+
+  <!-- 底部分隔线与页脚标记 -->
+  <line x1="58" y1="282" x2="1142" y2="282" stroke="#E7E7EC" stroke-width="1"/>
+  <text x="58" y="318" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="2" fill="#8A8A90">DESKTOP / LAN / FIRMWARE</text>
+  <text x="1142" y="318" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="2" fill="#8A8A90">GITHUB / LSAA4</text>
+</svg>
